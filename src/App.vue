@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-<!-- <RouterLink to="/form">Forms</RouterLink> -->
+<RouterLink to="/"></RouterLink>
 
   <RouterView />
 </template>
